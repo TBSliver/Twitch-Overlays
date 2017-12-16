@@ -3,47 +3,12 @@ html, body {
   height: 100vh;
 }
 
-#background {
+body {
   font-family: 'Oswald', sans-serif;
+  font-size: xx-large;
   background-image: url('../images/background.jpg');
 }
 
-#sidebar {
-  width: 30%;
-  height: 100%;
-}
-
-.header-wrapper {
-  padding: 3em 3em 0 3em;
-  height: 10%;
-}
-
-.header {
-  height: 100%;
-  text-align: center;
-  background-color: lightslategray;
-  border: solid 3px darkslategray;
-  z-index: 1;
-}
-
-.body-wrapper {
-  padding: 0 4em;
-  height: 70%;
-}
-
-.body {
-  height: 100%;
-  background-color: slategray;
-}
-
-.footer-wrapper {
-  padding: 0 3em 3em 3em;
-  height: 10%;
-}
-
-.footer {
-  height: 100%;
-  text-align: center;
-  background-color: lightslategray;
-  border: solid 3px darkslategray;
+.bg-light-opaque {
+  background: rgba(248, 249, 250, 0.6);
 }
