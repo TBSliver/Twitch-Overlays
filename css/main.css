@@ -3,7 +3,7 @@ html, body {
   height: 100vh;
 }
 
-body {
+#background {
   font-family: 'Oswald', sans-serif;
   font-size: xx-large;
   background-image: url('../images/background.jpg');
