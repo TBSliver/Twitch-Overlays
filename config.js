@@ -1,1 +1,1 @@
-var countdown_start = 5 * 60;
+var countdown_start = 2 * 60;

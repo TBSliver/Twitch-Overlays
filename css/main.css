@@ -6,11 +6,10 @@ html, body {
 body {
   background-color: rgba(0, 0, 0, 0);
   overflow: hidden;
+  font-family: 'Oswald', sans-serif;
 }
 
 #background {
-  font-family: 'Oswald', sans-serif;
-  font-size: xx-large;
   background-image: url('../images/background.jpg');
 }
 
